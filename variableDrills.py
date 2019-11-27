@@ -81,7 +81,7 @@ listInt=[1,2,3,4,5]
 #22) Print the 3rd item in listInt, using indexes.
 print(listInt[2])
 #23) Make a list called listString of 5 string variables.
-listString=[a,b,c,d,e]
+listString=["a","b","c","d","e"]
 #24) Print the 4th item in listString, using indexes.
 print(listString[3])
 #25) Make a list called listBoolean of 5 boolean variables. Then print each item in the list, using indexes.

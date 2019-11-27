@@ -75,40 +75,40 @@ START HERE
 '''
 #1)
 #x = 1.01
-#ANSWER:
+#ANSWER:float
 
 #2)
 #y = 2
-#ANSWER:
+#ANSWER:intger
 
 #3)
 #a = True
-#ANSWER:
+#ANSWER:bolean
 
 #4)
 #b = 1
-#ANSWER:
+#ANSWER:integer
 
 #5)
 #c = "string"
-#ANSWER:
+#ANSWER:string
 
 #6)
 #d = False
-#ANSWER:
+#ANSWER:bolean
 
 #7)
 #e = ["a", "b", "c"]
-#ANSWER:
+#ANSWER:list of strings
 
 #8)
 #f = [1, 2, 3]
-#ANSWER:
+#ANSWER:list
 
 #9)
 #g = "nope"
-#ANSWER:
+#ANSWER:string
 
 #10)
 #h = 1.24
-#ANSWER:
+#ANSWER:float
